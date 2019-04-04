@@ -3,7 +3,6 @@
 namespace Planck\Extension;
 
 use Phi\Core\Autoloader;
-use Planck\Application\Extension;
 use Planck\Traits\IsApplicationObject;
 
 class Loader
