@@ -5,6 +5,7 @@ namespace Planck\Extension;
 use Phi\HTML\CSSFile;
 use Phi\HTML\JavascriptFile;
 use Phi\Traits\Introspectable;
+use Planck\Application\Aspect;
 use Planck\Exception\DoesNotExist;
 use Planck\Extension\FrontVendor\Package\Planck;
 use Planck\Helper\File;
